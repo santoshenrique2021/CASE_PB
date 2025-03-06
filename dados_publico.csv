@@ -1,0 +1,11 @@
+publico_alvo;percentual
+Aposentadoria_idade;35.06
+Aposentadoria_tempo_contribuicao;23.82
+Pensao_morte;20.85
+Aposentadoria_idade-Pensao_morte;8.61
+Aposentadoria_invalidez;6.76
+Aposentadoria_tempo_contribuicao-Pensao_morte;2.42
+Aposentadoria_invalidez-Pensao_morte;1.25
+outro_tipo_cliente;1.2
+Aposentadoria_idade-Aposentadoria_tempo_contribuicao;0.02
+Aposentadoria_invalidez-Aposentadoria_tempo_contribuicao;0.01
