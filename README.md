@@ -1,2 +1,2 @@
 # CASE_PB
-Repositório que contém o notebook utilizado para o estudo de caso do Banco Paraná.
+Repositório que contém os códigos/scripts utilizados para o estudo de caso do Paraná Banco.
